@@ -1,2 +1,2 @@
 # Demo
-this is first repository for practice
+this is first repository for practice.
